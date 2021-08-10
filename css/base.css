@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@300&family=Rajdhani&display=swap");
+@keyframes backgroundanimation {
+  0% {
+    background-color: var(--bg-m-a);
+  }
+  10% {
+    background-color: var(--bg-m-b);
+  }
+  20% {
+    background-color: var(--bg-m-c);
+  }
+  30% {
+    background-color: var(--bg-m-d);
+  }
+  40% {
+    background-color: var(--bg-m-e);
+  }
+  50% {
+    background-color: var(--bg-m-e);
+  }
+  60% {
+    background-color: var(--bg-m-d);
+  }
+  70% {
+    background-color: var(--bg-m-c);
+  }
+  80% {
+    background-color: var(--bg-m-b);
+  }
+  100% {
+    background-color: var(--bg-m-a);
+  }
+}
+.theme-space {
+  --text-p: #AFDAFF;
+  --text-c: #8F2D56;
+  --but-bg: #E01A4F;
+  --but-text: #FFFFFF;
+  --bg-m-a: #011638;
+  --bg-m-b: #0B193C;
+  --bg-m-c: #161D40;
+  --bg-m-d: #202043;
+  --bg-m-e: #2A2347;
+  --hl-sb: #C7AADF;
+  --hl-text-sb: #000500;
+  --bg-sd-dd: #2A2347;
+  --card-a: #D499B9;
+  --card-b: #ADBDFF;
+  --card-text: #091624;
+  --proj: #E0AFA0;
+  --pub: #FFA737;
+}
+
+.theme-organic {
+  --text-p: #EDFFEC;
+  --text-c: #9792E3;
+  --but-bg: #F2FF49;
+  --but-text: #0C2137;
+  --bg-m-a: #2B2D42;
+  --bg-m-b: #292A3F;
+  --bg-m-c: #27273C;
+  --bg-m-d: #242439;
+  --bg-m-e: #222136;
+  --hl-sb: #EF5B5B;
+  --hl-text-sb: #000500;
+  --bg-sd-dd: #D80032;
+  --card-a: #08B2E3;
+  --card-b: #34E4EA;
+  --card-text: #091624;
+  --proj: #E0AFA0;
+  --pub: #FFA737;
+}
+
+/*# sourceMappingURL=base.css.map */
